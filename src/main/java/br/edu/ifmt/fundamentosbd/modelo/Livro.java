@@ -25,6 +25,7 @@ public class Livro {
         public Livro(String titulo, String isbn) {
                 this.titulo = titulo;
                 this.isbn = isbn;
+                
         }
 
         public String getTitulo() {
