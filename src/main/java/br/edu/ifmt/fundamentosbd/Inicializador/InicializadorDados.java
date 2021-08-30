@@ -65,7 +65,8 @@ public class InicializadorDados implements CommandLineRunner {
         // MOSTRAR LIVROS
         System.out.println("INICIALIZADOR DE DADOS OK...");
         System.out.println("Numero de livros " +livroRepositorio.count());
-
+        
+ 
 
         //--------------------------------------------------------------------------------------
 
